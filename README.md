@@ -37,21 +37,21 @@
 
 | 🌟 Project | 🔗 Link | 🛠️ Tech |
 |-------------|---------|----------|
-| 🛒 Amazon Clone | [View Repo](https://github.com/maida-israr/amazon-clone) | HTML, CSS |
-| 💼 Portfolio Website | [View Repo](https://github.com/maida-israr/portfolio) | HTML, CSS, JS |
-| ⚙️ Full Stack App | [View Repo](https://github.com/maida-israr/fullstack-project) | MERN Stack |
+| 🛒 Amazon Clone | [View Repo](https://github.com/maida1610/amazon-clone) | HTML, CSS |
+| 💼 Portfolio Website | [View Repo](https://github.com/maida1610/portfolio) | HTML, CSS, JS |
+| ⚙️ Full Stack App | [View Repo](https://github.com/maida1610/fullstack-project) | MERN Stack |
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maida-israr&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maida-israr&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maida1610&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maida1610&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maida-israr&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maida1610&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -61,16 +61,4 @@
 <p align="center">
   <a href="mailto:maida.israr@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/maida-israr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/maida_israr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/maida-israr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 💬 Quote  
-
-> “The best way to learn is by creating — keep building, keep improving.” 🌱  
-
----
-
-<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
+  <a href="https://twitter.com/maida_israr"><img src="ht_
