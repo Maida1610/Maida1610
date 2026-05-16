@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Maida!
 
-MERN+Stack+Learner;Passionate+about+Web+Development;Problem+Solver
+<b>MERN-Stack Learner<b><br>
+ <b>Problem+Solver</b>
 
 ---
 
