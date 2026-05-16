@@ -1,20 +1,22 @@
-# 👋 Hi, I'm Maida!
+# 👋 Hi, I'm Maida Israr!
 
- - MERN-Stack Learner 
- - Problem+Solver 
+> 🚀 Full Stack Developer (MERN) &nbsp;·&nbsp; DSA Enthusiast &nbsp;·&nbsp; Open to Opportunities
 
 ---
 
 ### 💫 About Me
-- 👩‍💻 I’m a **Full Stack Developer** exploring the **MERN stack**
-- 🌱 I’m currently enhancing my **JavaScript & React** skills  
-- 🧠 I also practice **DSA** regularly on [LeetCode](https://leetcode.com/u/Maidaa/)  
-- 🎯 My goal is to build creative and user-friendly web applications  
-- 💬 I love learning, building, and sharing new ideas with the dev community
+
+- 👩‍💻 I'm a **Full Stack Developer** building real-world apps with the **MERN stack**
+- 🌱 Currently deepening my **JavaScript & React** skills
+- 🧠 I practice **DSA** regularly on [LeetCode](https://leetcode.com/u/Maidaa/)
+- 🎯 My goal is to build creative, user-friendly, and scalable web applications
+- 🤝 Open to **collaborations, freelance & internship** opportunities
+- 💬 I love learning, building, and sharing ideas with the dev community
+- 📬 Reach me at **maidaisrar19@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,30 +28,69 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
- 
 
 ---
 
-### 📂 Projects
-| 🧩 Project | 🔍 Description | 🛠️ Tech |
-|------------|----------------|----------|
-| 🌐 **Portfolio Website** | My personal portfolio showcasing my projects & skills | React, Tailwind CSS |
-| 🛍️ **MERN E-Commerce App** | Full-stack e-commerce app with authentication & cart | MongoDB, Express, React, Node |
-| 📝 **Travel Website** |  
- ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maida1610&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maida1610&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maida1610&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📂 Featured Projects
+
+| 🧩 Project | 🔍 Description | 🛠️ Tech | 🔗 Link |
+|------------|----------------|----------|---------|
+| 🛍️ **MERN E-Commerce App** | Full-stack e-commerce platform with authentication, cart, real-time features via Socket.io | MongoDB, Express, React, Node.js, Socket.io | [View Repo](https://github.com/Maida1610/Ecommerce-Website) |
+| ✈️ **Travel & Tour Website** | Explore travel destinations with a clean, responsive UI and tour listings | React, CSS3, Node.js | [View Repo](https://github.com/Maida1610/Travel-and-Tour-Website) |
+| 🛒 **Green Cart** | Grocery e-commerce app with product browsing, cart management and checkout flow | React, Tailwind CSS, Node.js, MongoDB | [View Repo](https://github.com/Maida1610/Green-Cart) |
+
+---
 
 ### 🏆 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/Maidaa?theme=dark&font=Nunito&ext=heatmap)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Maidaa?theme=dark&font=Nunito&ext=heatmap"/>
+</p>
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/maida-israr-438815376)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Maidaa/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maidaisrar19@gmail.com)
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maida-israr-438815376">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Maidaa/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="mailto:maidaisrar19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Maida1610">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ *“Keep learning, keep building, and stay curious.”*
+<p align="center">⭐ <em>"Keep learning, keep building, and stay curious."</em></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maida1610&color=58a6ff&style=flat-square&label=Profile+Views"/>
+</p>
