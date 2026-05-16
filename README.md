@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Maida!
 
-<b>MERN-Stack Learner<b><br>
- <b>Problem+Solver</b>
+ MERN-Stack Learner 
+ Problem+Solver 
 
 ---
 
