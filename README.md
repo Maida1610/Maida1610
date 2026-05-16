@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maida!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=8A2BE2&size=25&lines=MERN+Stack+Learner;Passionate+about+Web+Development;Problem+Solver)](https://git.io/typing-svg)
+MERN+Stack+Learner;Passionate+about+Web+Development;Problem+Solver
 
 ---
 
