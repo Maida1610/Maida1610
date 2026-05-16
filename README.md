@@ -37,15 +37,8 @@
 |------------|----------------|----------|
 | 🌐 **Portfolio Website** | My personal portfolio showcasing my projects & skills | React, Tailwind CSS |
 | 🛍️ **MERN E-Commerce App** | Full-stack e-commerce app with authentication & cart | MongoDB, Express, React, Node |
-| 📝 **Notes App** | Create, edit & delete notes with local storage | React, CSS |
-
----
-
-### 📊 GitHub Stats
-![Maida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maida1610&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maida1610&layout=compact&theme=tokyonight)
-
----
+| 📝 **Travel Website** |  
+ ---
 
 ### 🏆 LeetCode Progress
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Maidaa?theme=dark&font=Nunito&ext=heatmap)
