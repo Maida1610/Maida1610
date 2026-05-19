@@ -8,8 +8,7 @@
 
 - 👩‍💻 I'm a **Full Stack Developer** building real-world apps with the **MERN stack**
 - 🌱 Currently deepening my **JavaScript & React** skills
-- 🧠 I practice **DSA** regularly on [LeetCode](https://leetcode.com/u/Maidaa/)
-- 🎯 My goal is to build creative, user-friendly, and scalable web applications
+- 🧠 I practice **DSA** regularly on [LeetCode](https://leetcode.com/u/Maidaa/) 
 - 🤝 Open to **collaborations, freelance & internship** opportunities
 - 💬 I love learning, building, and sharing ideas with the dev community
 - 📬 Reach me at **maidaisrar19@gmail.com**
